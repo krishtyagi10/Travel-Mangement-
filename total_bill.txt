@@ -1,0 +1,37 @@
+
+
+Name of the person : Krish
+Mobile Number : 8006199911
+You are visiting :PARIS
+You are travelling via Airways
+Your total bill is Rs.219870
+Service tax is Rs.999
+You have to pay 220869
+    wishing you a safe journey
+
+Name of the person : KRISH
+Mobile Number : 8006199911
+You are visiting :GOA
+You are travelling via Roadways
+Your total bill is Rs.15184
+Service tax is Rs.999
+You have to pay 16183
+    wishing you a safe journey
+
+Name of the person : KRISH
+Mobile Number : 8006199911
+You are visiting :JAIPUR
+You are travelling via roadways
+Your total bill is Rs.2248
+Service tax is Rs.999
+You have to pay 3247
+    wishing you a safe journey
+
+Name of the person : krish
+Mobile Number : 8006199911
+You are visiting :jaipur
+You are travelling via Roadways
+Your total bill is Rs.0
+Service tax is Rs.999
+You have to pay 999
+    wishing you a safe journey
